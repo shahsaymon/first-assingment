@@ -1,0 +1,120 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifs
+}
+.mission{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, salmon);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.dream-big{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px;
+    padding-right: 500px;
+}
+#coding-name{
+    padding-left: 50px;
+    width: 500px;
+
+
+}
+#apps-name{
+    padding-left: 50px;
+    width: 300px;
+    background-image: url(mission-2022-main/images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    
+
+}
+#corona-name{
+    color: orange;
+}
+#build-name{
+    text-align: center;
+}
+#in-name{
+    text-align: center;
+}
+#my-name{
+    color: orange;
+}
+#fist-name{
+    background-color: rgb(247, 243, 205);
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+#second-name{
+    background-color: rgb(255, 232, 236);
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+#third-name{
+    background-color: rgb(184, 247, 255);
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+#last-name{
+    text-align: center;
+}
+#black-name{
+    color: white;
+}
+#tomato-name{
+    color: tomato;
+}
+#finalone-name{
+    background-color: black;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#hard-name{
+    color: white;
+}
+#illu1-name{
+    width: 120px;
+    height: 160px;
+}
+#illu2-name{
+    width: 120px;
+    height: 160px;
+}
+#illu3-name{
+    width: 120px;
+    height: 160px;
+}
+.header{
+    font-size: 80px;
+    
+}
+.para{
+    font-size: 25px;
+    padding-right: 150px;
+}
+#now-name{
+    font-size: 30px;
+}
+#header-two{
+    font-size: 50px;
+}
